@@ -29,3 +29,11 @@ Active Directory is a primary source for Authentication and Authorization for us
 ![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/WhyADAssessmentImage.png)
 
 [Learn More...](https://microsoft-assessment.com)
+
+# Why Office 365 Assessment
+
+SmartProfiler for Office 365 Assessment is an automated Health & Risk assessment solution to help you significantly improve your Microsoft Office 365 ecosystem health & security posture. SmartProfiler for Office 365 Assessment follows CIS-Workbench controls and other tests designed by our Office 365 experts. Services covered: MSOnline, EXO, Teams, SharePoint, OneDrive, and Azure AD.
+
+![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/WhyOffice365AssessmentImage.png)
+
+[Learn More...](https://microsoft-assessment.com)
