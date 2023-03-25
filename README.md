@@ -20,4 +20,4 @@ Businesses have deployed Microsoft Azure Virtual Desktop (AVD) in production. Ho
 
 ![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/WhyPerformAVDAssessmentImage.png)
 
-[Read More...](https://github.com/user/repository/fork)
+[Read More...](https://microsoft-assessment.com/why-perform-azure-virtual-desktop-assessment/)
