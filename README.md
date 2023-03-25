@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="7mJSo37_BTISnlCsHHbqm7PBpjBuofBXte7DRIZ8mPA" />
+
 # SmartProfiler
 
 ![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/smartprofiler-1.png)
