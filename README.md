@@ -21,3 +21,11 @@ Businesses have deployed Microsoft Azure Virtual Desktop (AVD) in production. Ho
 ![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/WhyPerformAVDAssessmentImage.png)
 
 [Read More...](https://microsoft-assessment.com/why-perform-azure-virtual-desktop-assessment/)
+
+# Why Active Directory Assessment
+
+Active Directory is a primary source for Authentication and Authorization for users and business applications. Microsoft doesn't provide out of the box tools that can be used to perform health & risk assessment of Active Directory environment. Our SmartProfiler AD Assessment Tool can be used to perform assessment of multiple Active Directory forests and provide an Assessment Report which includes issues and recommendations to fix the issues.
+
+![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/WhyADAssessmentImage.png)
+
+[Learn More...](https://microsoft-assessment.com)
