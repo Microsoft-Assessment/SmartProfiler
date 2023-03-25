@@ -1,6 +1,7 @@
 # SmartProfiler
 
 ![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/smartprofiler-1.png)
+[Download](https://microsoft-assessment.com/prodtrials/)
 
 Microsoft AVD Assessment, Active Directory Assessment, Office 365 Assessment, and FSLogix Assessment are the four functions provided by SmartProfiler. The tool is intended to detect problems in the aforementioned environments and generate an actionable report in Word/HTML format. SmartProfiler Assessment is intended to be used as one-time assessment tool. Please use DCA if you want to perform continuous assessment. DCA also supports more features and ability to create more modules. 
 
