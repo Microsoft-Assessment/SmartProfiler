@@ -12,4 +12,4 @@ SmartProfiler is designed to support CIS Standards designed for Office 365 and A
 
 # Supported Technologies By SmartProfiler
 
-![alt text]([https://microsoft-assessment.com/wp-content/uploads/2023/03/smartprofiler-1.png](https://microsoft-assessment.com/wp-content/uploads/2023/03/smtech.png))
+![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/smtech.png)
