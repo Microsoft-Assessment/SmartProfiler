@@ -19,3 +19,5 @@ SmartProfiler is designed to support CIS Standards designed for Office 365 and A
 Businesses have deployed Microsoft Azure Virtual Desktop (AVD) in production. However, many AVD environments are still not utilizing full capabilities of FSLogix and Windows 10/Windows 11 or these AVD environments might be missing recommended settings. We have designed AVD Assessment Tool that can be used to perform assessment of complete AVD environment and provide an Assessment Report which includes issues and recommendations to fix the issues.
 
 ![alt text](https://microsoft-assessment.com/wp-content/uploads/2023/03/WhyPerformAVDAssessmentImage.png)
+
+[Read More...](https://github.com/user/repository/fork)
