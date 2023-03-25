@@ -11,4 +11,5 @@ The Center for Internet Security is a nonprofit entity whose mission is to 'iden
 SmartProfiler is designed to support CIS Standards designed for Office 365 and Azure Assessments.
 
 # Supported Technologies By SmartProfiler
+
 ![alt text]([https://microsoft-assessment.com/wp-content/uploads/2023/03/smartprofiler-1.png](https://microsoft-assessment.com/wp-content/uploads/2023/03/smtech.png))
